@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-11-19T08:06:01.284815123Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-11-19T08:06:19.913031390Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -29,6 +29,9 @@
     "domain": "ciel-jadin.com",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12797",
     "ybsId": "81193",
+    "tripPropertyId": "12797",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -530,10 +533,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "12797",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
